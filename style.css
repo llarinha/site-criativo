@@ -1,5 +1,5 @@
 body{
-    color: red;
+    color: whitesmoke;
     background-color: black;
     margin: 0px;
 }
@@ -7,5 +7,5 @@ header{
     border-bottom:solid 2px rgb(255, 68, 68);
     padding: 20px;
     font-size: 32px;
-    color:white; 
+    color:red; 
 }
