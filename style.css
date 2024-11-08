@@ -3,5 +3,5 @@ body{
     background-color: black;
 }
 header{
-border:solid 2px rgb(255, 68, 68);
+border-bottom:solid 2px rgb(255, 68, 68);
 }
